@@ -6,4 +6,4 @@
 /credentials.py
 
 #Ignore folders
-text/*.txt
+text/
